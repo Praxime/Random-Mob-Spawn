@@ -1,12 +1,12 @@
 # Random Mob spawn plugin 🧟‍♂️
-# [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+# [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)[![icons8](https://img.icons8.com/?size=256&id=13679&format=png)](https://icons8.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 **🎈 Usable for people who want to spawn random mob on their posistion at anytime**
 
 **⚡ For example, Streamers can use this mod to spawn a random mob execpt 3 bosses (The Enderdragon, The Wither and The Warden) on their posistion after a donation.**
 
 **➡ Use /randommob to spawn a random mob at the location you are.**
 
-**✨ The mob can be as cute to not hurt you or as hostile to INSTANTLY kill you.**
+**✨ The mob can be as cute to not hurt you or as hostile to INSTANTLY k*ll you.**
 
 💡・You can use [Command Macros](https://modrinth.com/mod/command-macros) to easily summon a random mob with a specified key.
 # Here's a part of the code of this plugin:
